@@ -1,7 +1,6 @@
 ### Hi there 👋
-My name is Alex, and I'm currently looking for a job as a junior front-end developer. Any feedback and help are appreciated.
-
-In my spare time, I enjoy photography, rock climbing, books and long walks with my dog.
+My name is Alex, and I'm currently looking for a job as a junior front-end developer👩‍💻. Any feedback and help are appreciated.
+In my spare time, I enjoy photography📸, rock climbing🧗‍♀️, books📚 and long walks with my dog🐕.
 
 #### Experience & Education
 
@@ -19,10 +18,9 @@ Two years ago, I decided to pursue my passion for web technologies and enrolled 
 - Soft skills: Project Management, Teamwork, Excellent communication skills
 
 **Languages**:
-- :ru: Russian – native
-- :gb: English – professional proficiency
-- 🇵🇹 Portuguese, :es: Spanish – functional
-
+- 🇷🇺 Russian – native
+- 🇬🇧 English – professional proficiency
+- 🇵🇹 Portuguese, 🇪🇸 Spanish – functional
 
 See my full resume here;
 
