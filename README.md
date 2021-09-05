@@ -4,10 +4,10 @@ In my spare time, I enjoy photography📸, rock climbing🧗‍♀️, books📚
 
 #### Experience & Education
 
-Two years ago, I decided to pursue my passion for web technologies and enrolled in online courses & studies on Front-end in HTML Academy. Got certified as a front-end developer by successfully completing the following courses: 
-- HTML & CSS. Professional Website Coding
-- HTML & CSS. Adaptive Website Coding and Automation
-- JavaScript. Professional Development of Web Interfaces
+Two years ago, I decided to pursue my passion for web technologies and enrolled in online courses & studies on Front-end in HTML Academy. Got certified as a [front-end developer](https://github.com/morrisonalexx/morrisonalexx/blob/main/frontend-1.jpg) by successfully completing the following courses: 
+- [HTML & CSS. Professional Website Coding](https://github.com/morrisonalexx/morrisonalexx/blob/main/html-basic.jpg)
+- [HTML & CSS. Adaptive Website Coding and Automation](https://github.com/morrisonalexx/morrisonalexx/blob/main/html-advanced.jpg)
+- [JavaScript. Professional Development of Web Interfaces](https://github.com/morrisonalexx/morrisonalexx/blob/main/js.jpg)
 
 **My projects**: 
 - [Nerds](https://morrisonalexx.github.io/Nerds/)
