@@ -12,6 +12,8 @@ Two years ago, I decided to pursue my passion for web technologies and enrolled 
 **My projects**: 
 - [Nerds](https://morrisonalexx.github.io/Nerds/)
 - [Device](https://morrisonalexx.github.io/Device/)
+- [Kekstagram](https://github.com/morrisonalexx/Kekstagram)
+- [Cat Energy](https://github.com/morrisonalexx/cat-energy)
 
 **My skills**: 
 - Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
