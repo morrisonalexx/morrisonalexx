@@ -10,8 +10,8 @@ Two years ago, I decided to pursue my passion for web technologies and enrolled 
 - JavaScript. Professional Development of Web Interfaces
 
 **My projects**: 
-- Project # 1
-- Project # 2
+- (Nerds)[https://morrisonalexx.github.io/Nerds/]
+- (Device)[https://morrisonalexx.github.io/Device/]
 
 **My skills**: 
 - Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
