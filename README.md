@@ -24,7 +24,7 @@ Two years ago, I decided to pursue my passion for web technologies and enrolled 
 - 🇬🇧 English – professional proficiency
 - 🇵🇹 Portuguese, 🇪🇸 Spanish – functional
 
-See my full resume here;
+See my full resume [here](https://docs.google.com/document/d/12-3Y9WteW9ATpKLat8QtHlJbqoZXzUSAPxlNIaMZXRY/preview)
 
 <!--
 **morrisonalexx/morrisonalexx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
