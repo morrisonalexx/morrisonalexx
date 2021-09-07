@@ -16,7 +16,7 @@ Two years ago, I decided to pursue my passion for web technologies and enrolled 
 - [Cat Energy](https://github.com/morrisonalexx/cat-energy)
 
 **My skills**: 
-- Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
+- Hard skills: HTML, CSS, ES6, BEM, LESS, SASS, SCSS, JavaScript, NodeJS, WebPack, Gulp, Git, Github, Figma, Zeplin, Sketch, Photoshop
 - Soft skills: Project Management, Teamwork, Excellent communication skills
 
 **Languages**:
